@@ -16,7 +16,7 @@ docker run -p 9000:9000 minio/minio server /export
 docker pull minio/minio:edge
 docker run -p 9000:9000 minio/minio:edge server /export
 ```
-Please visit Minio Docker quickstart guide for more [here](https://docs.minio.io/docs/minio-docker-quickstart-guide)
+Please visit Minio Docker quickstart guide for more [here](/docs/minio-docker-quickstart-guide)
 
 ## OS X
 ### Homebrew
